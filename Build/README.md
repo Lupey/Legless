@@ -1,5 +1,5 @@
-# Legless v0.1.0
-### Just a regular scavenger, but with no legs
+# Legless
+Just a regular scavenger, but with no legs
 
 ## Instructions
 - Place contents in `bepinex/plugins` folder. Ensure that ModelReplacementAPI is also installed. 
@@ -8,14 +8,16 @@
 
 ## Preview
 
-![preview](https://github.com/Lupey/Legless/blob/main/Build/images/legless.png)
+![preview](https://github.com/Lupey/Legless/blob/main/Build/images/legless.png?raw=true)
 
 - This was specifically created to be used with this Octane cosmetic to make the player look like a little topper / centaur thing.
   - [Cosmetic Pack](https://thunderstore.io/c/lethal-company/p/Lupey/LethalCosmetics/)
 
-![preview with cosmetic](https://github.com/Lupey/Legless/blob/main/Build/images/octane.png)
+![preview with cosmetic](https://github.com/Lupey/Legless/blob/main/Build/images/octane.png?raw=true)
 
 ## Changelog
+	- v0.1.2
+		- Try again
 	- v0.1.1
 		- Fix images in README hopefully
 	- v0.1.0

@@ -8,12 +8,12 @@
 
 ## Preview
 
-![preview](images/legless.png)
+![preview](https://github.com/Lupey/Legless/blob/main/Build/images/legless.png)
 
 - This was specifically created to be used with this Octane cosmetic to make the player look like a little topper / centaur thing.
   - [Cosmetic Pack](https://thunderstore.io/c/lethal-company/p/Lupey/LethalCosmetics/)
 
-![preview with cosmetic](images/octane.png)
+![preview with cosmetic](https://github.com/Lupey/Legless/blob/main/Build/images/octane.png)
 
 ## Changelog
 	- v0.1.0

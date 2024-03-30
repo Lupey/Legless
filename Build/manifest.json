@@ -1,6 +1,6 @@
 {
     "name": "Legless",
-    "version_number": "0.1.0",
+    "version_number": "0.1.1",
     "website_url": "https://github.com/Lupey/Legless",
     "description": "Play as a regular scavenger, but with no legs",
     "dependencies": [

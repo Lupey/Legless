@@ -16,5 +16,7 @@
 ![preview with cosmetic](https://github.com/Lupey/Legless/blob/main/Build/images/octane.png)
 
 ## Changelog
+	- v0.1.1
+		- Fix images in README hopefully
 	- v0.1.0
 		- Release

@@ -1,0 +1,16 @@
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\Legless\bin\Debug\netstandard2.1\Legless.deps.json
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\Legless\bin\Debug\netstandard2.1\Legless.dll
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\Legless\bin\Debug\netstandard2.1\Legless.pdb
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\Legless\bin\Debug\netstandard2.1\ModelReplacementAPI.dll
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\Legless\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\Legless\bin\Debug\netstandard2.1\Unity.InputSystem.ForUI.dll
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\Legless\bin\Debug\netstandard2.1\Unity.Netcode.Runtime.dll
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\Legless\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\Legless\obj\Debug\netstandard2.1\Legless.csproj.AssemblyReference.cache
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\Legless\obj\Debug\netstandard2.1\Legless.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\Legless\obj\Debug\netstandard2.1\Legless.AssemblyInfoInputs.cache
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\Legless\obj\Debug\netstandard2.1\Legless.AssemblyInfo.cs
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\Legless\obj\Debug\netstandard2.1\Legless.csproj.CoreCompileInputs.cache
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\Legless\obj\Debug\netstandard2.1\Legless.csproj.Up2Date
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\Legless\obj\Debug\netstandard2.1\Legless.dll
+C:\Users\Brent\Desktop\Projects\LethalCompanyMods\Legless\obj\Debug\netstandard2.1\Legless.pdb
